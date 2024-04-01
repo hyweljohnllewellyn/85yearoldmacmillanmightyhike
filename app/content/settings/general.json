@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "title": "Eight Five Year Old Takes on Macmillan Gower Might Hike for Final Time",
+  "titleTemplate": "Bluise",
+  "welcomeText": "# John Llewellyn\n\nI am eighty five years old and have completed 23 previous Gower Macmillan walks.\\\n\\\nJuly 2024 will be my final Gower Peninsula Mighty Hike.\n\nThis year I will be walking with my son, Hywel, who is fifty years old. It's an opportunity to share this fantastic experience with my family, enjoying every moment.\\\n\\\nI started fundraising for Macmillan since my father was diagnosed with cancer and received support from Macmillan.\\\n\\\nIn 2021, I was shortlisted in [South Wales Evening Post Community Award fundraising category](https://www.facebook.com/macmillan.cymruwales/photos/a.640296012680395/3915836351792995)\n\n\\\n[You can follow me on Strava.](https://www.strava.com/athletes/58212778)\n\nWith your help, I want to raise as much as possible for people living with cancer.\n\nDonating through JustGiving is simple, fast and totally secure. Your details are safe with JustGiving - they'll never sell them on or send unwanted emails. Once you donate, they'll send your money directly to the charity.",
+  "logo": "/images/uploads/john-llewellyn-85-year-old-macmillan-cancer-mighty-hike.jpeg",
+  "icon": "/images/uploads/john-llewellyn.jpg",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Eight Five Year Old Takes on Macmillan Gower Might Hike for Final Time",
   "seoMetaImage": ""
 }
